@@ -1,0 +1,6 @@
+In lower 
+ The value of can_enter is True
+In lower 
+ The value of can_enter is True
+In lower 
+ The value of can_enter is False

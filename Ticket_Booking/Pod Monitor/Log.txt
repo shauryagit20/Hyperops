@@ -1,0 +1,6 @@
+The value of greater pod bay is 1X0
+The value of keys _list is ['1X0', '0X0']
+The value of greater pod bay is 1X0
+The value of keys _list is ['1X0', '0X0']
+The value of greater pod bay is 1X0
+The value of keys _list is ['1X0', '0X0']
